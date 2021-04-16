@@ -37,11 +37,14 @@
   --sbg: #201e21; /* Cards color */
   --fg: #d8dee9; /* Foreground color */
   --sfg: #3a3a3a; /* Secondary Foreground color */
+  
+  
   --imgbg: url(/img/wal.jpg);
-  --imgcol: linear-gradient(
+  --imgcol: rgba(0, 0, 0, 0.2)
+    /*linear-gradient(
     rgba(0, 0, 0, 1),
     rgba(0, 0, 0, 1)
-  ); /* Filter color */
+  );*/ /* Filter color */
 }
 
 /* S T Y L E S */
