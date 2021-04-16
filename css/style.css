@@ -39,8 +39,8 @@
   --sfg: #3a3a3a; /* Secondary Foreground color */
   --imgbg: url(/img/wal.jpg);
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.6),
-    rgba(0, 0, 0, 0.6)
+    rgba(0, 0, 0, 0.2),
+    rgba(0, 0, 0, 0.2)
   ); /* Filter color */
 }
 
