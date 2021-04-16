@@ -40,11 +40,11 @@
   
   
   --imgbg: url(/img/wal.jpg);
-  --imgcol: rgba(0, 0, 0, 0.2);
-    /*linear-gradient(
-    rgba(0, 0, 0, 1),
-    rgba(0, 0, 0, 1)
-  );*/ /* Filter color */
+  --imgcol: linear-gradient(
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0.7),
+  ); /* Filter color */
+}
 }
 
 /* S T Y L E S */
